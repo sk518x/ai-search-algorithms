@@ -1,0 +1,3 @@
+# Only needed for examples/visualize.py
+matplotlib>=3.7
+networkx>=3.0
