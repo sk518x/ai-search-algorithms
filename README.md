@@ -169,7 +169,7 @@ It introduces nine realistic code mutations, including replacing BFS's queue wit
 
 **Current result: 9 out of 9 mutations detected.**
 
-The test suite runs automatically through GitHub Actions on Python 3.9–3.12. Mutation testing is performed manually because the checks depend on specific source-code locations and may require updates after refactoring.
+The test suite runs automatically through GitHub Actions on Python 3.10–3.12. Mutation testing is performed manually because the checks depend on specific source-code locations and may require updates after refactoring.
 
 ## Project Structure
 
